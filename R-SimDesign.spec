@@ -7,7 +7,7 @@
 #
 Name     : R-SimDesign
 Version  : 2.17.1
-Release  : 1
+Release  : 2
 URL      : https://ftp.osuosl.org/pub/cran//src/contrib/SimDesign_2.17.1.tar.gz
 Source0  : https://ftp.osuosl.org/pub/cran//src/contrib/SimDesign_2.17.1.tar.gz
 Summary  : Structure for Organizing Monte Carlo Simulation Designs
